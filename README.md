@@ -36,6 +36,7 @@ The dataset contains features computed from a digitized image of a fine needle a
 
 ## Author
 [UDEH SHEDRACK IFEANYI]
+shedrackudeh@yahoo.com
 
 ## Acknowledgements
 This project was inspired by the need for accurate breast cancer diagnosis and the potential of machine learning in medical imaging.
